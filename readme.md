@@ -1,4 +1,4 @@
-# conceitos de Git e Github
+# Conceitos de Git e Github
 
 Este arquivo tem como objetivo armazenar os comandos básicos para utilização
 de Git e Github
