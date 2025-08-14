@@ -34,3 +34,12 @@ Para salvar os arquivos no repositório.
 ```bash
 git commit -m "Criação do Arquivo"
 ```
+
+Para verificar a situação do repositório (pasta)
+usamos o status a qualquer momento.
+```bash
+git status
+```
+
+**IMPORTANTE:** Quando o status mostrar arquivos em vermelho é necessario rodar o **add** para adicionar os arquivos a serem salvos.**.** adiciona todos os arquivos da pasta. **add .**
+
