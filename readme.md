@@ -43,3 +43,10 @@ git status
 
 **IMPORTANTE:** Quando o status mostrar arquivos em vermelho é necessario rodar o **add** para adicionar os arquivos a serem salvos.**.** adiciona todos os arquivos da pasta. **add .**
 
+```bash
+git add .
+```
+
+```bash
+git commit -m "Atualizando"
+```
