@@ -24,3 +24,13 @@ usamos o status a qualquer momento.
 ```bash
 git status
 ```
+
+Para adicionar os arquivos (versionamento).
+```bash
+git add .
+```
+
+Para salvar os arquivos no repositório.
+```bash
+git commit -m "Criação do Arquivo"
+```
