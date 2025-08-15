@@ -35,18 +35,13 @@ Para salvar os arquivos no repositório.
 git commit -m "Criação do Arquivo"
 ```
 
-Para verificar a situação do repositório (pasta)
-usamos o status a qualquer momento.
+Para baixar as alterações que estão apenas no Github utilizamos o pull.<br>
+**IMPORTANTE** Sempre deve baixar a ultima versão da nuvem antes de enviar a atual do computador
 ```bash
-git status
+git pull
 ```
 
-**IMPORTANTE:** Quando o status mostrar arquivos em vermelho é necessario rodar o **add** para adicionar os arquivos a serem salvos.**.** adiciona todos os arquivos da pasta. **add .**
-
+Enviar os commits do pc para o Github utilizamos o push.
 ```bash
-git add .
-```
+git push
 
-```bash
-git commit -m "Atualizando"
-```
