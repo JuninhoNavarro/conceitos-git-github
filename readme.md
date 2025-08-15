@@ -34,3 +34,13 @@ Para salvar os arquivos no repositório.
 ```bash
 git commit -m "Criação do Arquivo"
 ```
+Para baixar as alterações que estão apenas no Github utilizamos o pull.<br>
+**IMPORTANTE** Sempre deve baixar a ultima versão da nuvem antes de enviar a atual do computador
+```bash
+git pull
+```
+
+Enviar os commits do pc para o Github utilizamos o push.
+```bash
+git push
+```
