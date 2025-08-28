@@ -6,9 +6,9 @@ de Git e Github
 ## Configuração inicial
 Rode os comandos abaixo no terminal(cmd) do seu computador.
 ```bash
-git confi --global user.name "Jose Navarro Alves Junior"
+git config --global user.name "Jose Navarro Alves Junior"
 
-git confi --global user.email jose.alves57@fatec.sp.gov.br
+git config --global user.email jose.alves57@fatec.sp.gov.br
 ``` 
 
 ## Comando do Git
